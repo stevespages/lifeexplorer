@@ -16,25 +16,25 @@ The latest COL checklist can be downloaded from https://www.catalogueoflife.org/
 
 Darwin Core Archive Col's taxon.tsv file had these headings:
 
-dwc:taxonID
-dwc:parentNameUsageID
-dwc:acceptedNameUsageID
-dwc:originalNameUsageID
-dwc:scientificNameID
-dwc:datasetID
-dwc:taxonomicStatus
-dwc:taxonRank
-dwc:scientificName
-dwc:scientificNameAuthorship
-col:notho
-dwc:genericName
-dwc:infragenericEpithet
-dwc:specificEpithet
-dwc:infraspecificEpithet
-dwc:cultivarEpithet
-dwc:nameAccordingTo
-dwc:namePublishedIn
-dwc:nomenclaturalCode
-dwc:nomenclaturalStatus
-dwc:taxonRemarks
-dcterms:references
+- dwc:taxonID
+- dwc:parentNameUsageID
+- dwc:acceptedNameUsageID
+- dwc:originalNameUsageID
+- dwc:scientificNameID
+- dwc:datasetID
+- dwc:taxonomicStatus
+- dwc:taxonRank
+- dwc:scientificName
+- dwc:scientificNameAuthorship
+- col:notho
+- dwc:genericName
+- dwc:infragenericEpithet
+- dwc:specificEpithet
+- dwc:infraspecificEpithet
+- dwc:cultivarEpithet
+- dwc:nameAccordingTo
+- dwc:namePublishedIn
+- dwc:nomenclaturalCode
+- dwc:nomenclaturalStatus
+- dwc:taxonRemarks
+- dcterms:references
