@@ -10,7 +10,7 @@ The approach taken will, to the maximum possible extent, be based on evolutionar
 
 ### Catalogue of Life
 
-[COL](https://www.catalogueoflife.org/) maintains a checklist of over two million of the world's species. The number of published scientific species names is far higher as there are many synonyms. However, COL only contains **accepted** names. This is achieved through COL's participation with taxonomic communities to develop **consensus-based** species lists for each taxonomic group which are then merged to complete a list for all life. New information and revision of old information result in new versions of COL being released monthly with major versions released annually.
+[COL](https://www.catalogueoflife.org/) maintains a checklist of over two million of the world's species. The number of published scientific species names is far higher as there are many synonyms. COL indicates which names are **accepted**. This is achieved through COL's participation with taxonomic communities to develop **consensus-based** species lists for each taxonomic group which are then merged to complete a list for all life. New information and revision of old information result in new versions of COL being released monthly with major versions released annually.
 
 The latest COL checklist can be downloaded from https://www.catalogueoflife.org/data/download. COL recommends the COL Data Package Archive (ColDP) format although other formats for example Darwin Core are available. The ColDP schema and information relating to it can be found at https://github.com/CatalogueOfLife/coldp. The specification not only describes the schema of the ColDP archive made available by COL but is also intended to specify what constitutes a valid ColDP format for people who want to construct a species list using their own data. Therefore the specification for the format is broader than that actually used by the ColDP archive itself. For example comma separated files as well as tab separated files are acceptable for the format but the archive only actually uses tab separated files (suffixed with the *.csv* file extension). 
 
@@ -36,3 +36,23 @@ total 2.1G
 ```
 
 The files above are for the simpler version of ColDP (see https://github.com/CatalogueOfLife/coldp) in which the *Taxon*, *Synonym* and *Name* entities have been merged into *NameUsage*. Note that I am lacking  *Treatment* file which is shown on the schema.
+
+#### Glossary
+
+- Catalogue of Life (COL)
+
+  https://www.catalogueoflife.org/
+
+  https://en.wikipedia.org/wiki/Catalogue_of_Life
+
+- Catalogue of Life Plus (COL+)
+
+  https://www.catalogueoflife.org/ 
+
+- COL Checklist
+
+  https://www.catalogueoflife.org/about/colusage
+
+#### Glossary of related terms
+
+- Digital Object Identifier (DOI)
